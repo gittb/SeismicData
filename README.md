@@ -1,7 +1,7 @@
 # SeismicData
 VandyHacks 2018 Submission
 Inspiration
-----------------------
+
 Some problems have become so ingrained within our society that they go all-but unnoticed, even as they lie in our plain sight. The way we use public video surveillance today is one of these problems: We accept its potential to violate our privacy, its unsuitability for data collection, and its great expense because we believe it to be our only option. This is no longer the case. Seismic Data is a proof of concept for an audio-based surveillance system that answers each of these issues while providing opportunities far beyond its elementary security applications.
 What it does
 ---------------
