@@ -1,5 +1,5 @@
 # SeismicData
-https://devpost.com/software/seismic
+https://devpost.com/software/seismic <br>
 VandyHacks 2018 Best Overall Project
 Inspiration
 
